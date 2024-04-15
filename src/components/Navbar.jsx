@@ -138,7 +138,7 @@ export default function Navbar(props) {
                 Market Place
               </Button>
             </Link>
-            <Link to="/dashboard/dao">
+            {/* <Link to="/dashboard/dao">
               <Button
                 sx={{
                   marginLeft: "1rem",
@@ -150,7 +150,7 @@ export default function Navbar(props) {
               >
                 Dao
               </Button>
-            </Link>
+            </Link> */}
           </Box>
 
           <Box sx={{}}>

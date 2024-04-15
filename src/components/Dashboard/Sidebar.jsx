@@ -23,7 +23,7 @@ export default function Sidebar({ boxNo }) {
                 { link: "/", icon: home, icon2: home2, text: "Home", width: 19, height: 22 },
                 { link: "/dashboard/library", icon: library, icon2: library2, text: "My Library", width: 27, height: 24 },
                 { link: "/dashboard/marketplace", icon: market, icon2: market2, text: "Marketplace", width: 30, height: 24 },
-                { link: "/dashboard/dao", icon: dao, icon2: dao2, text: "Dao", width: 32, height: 32 }
+                // { link: "/dashboard/dao", icon: dao, icon2: dao2, text: "Dao", width: 32, height: 32 }
             ]
         },
     ];

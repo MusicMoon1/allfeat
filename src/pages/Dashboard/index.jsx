@@ -17,7 +17,7 @@ export default function Index() {
       <Routes>
         {/* <Route path='/' element={<Home />} /> */}
         <Route path='library' element={<MyLibrary />} />
-        <Route path='dao' element={<Dao />} />
+        {/* <Route path='dao' element={<Dao />} /> */}
         <Route path='marketplace/*' element={<MarketPlace />} />
         <Route path='profile/*' element={<Profile />} />
         <Route path='details' element={<DetailsPage />} />
